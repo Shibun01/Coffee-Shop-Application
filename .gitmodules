@@ -1,0 +1,6 @@
+[submodule "client-instance"]
+	path = client-instance
+	url = https://github.com/Shibun01/client-instance.git
+[submodule "server-instance"]
+	path = server-instance
+	url = https://github.com/Shibun01/server-instance.git
