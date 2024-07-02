@@ -14,7 +14,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Login/Login_mobile.png" alt="Login Mobile" width="100%" height="100%">
+          <img src="./public/Login/Login_mobile.png" alt="Login Mobile" width="10%" height="10%">
       </div>
     - Register:
       - Desktop:
@@ -23,7 +23,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
         </div>
       - Mobile:
         <div align="center">
-            <img src="./public/Login/Register_phone.png" alt="Register Mobile" width="100%" height="100%">
+            <img src="./public/Login/Register_phone.png" alt="Register Mobile" width="10%" height="10%">
         </div>
 
 2. **Dashboard**
@@ -35,7 +35,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Dashboard/Dashboard_mobile.png" alt="Dashboard Mobile" width="100%" height="100%">
+          <img src="./public/Dashboard/Dashboard_mobile.png" alt="Dashboard Mobile" width="10%" height="10%">
       </div>
 
 3. **Map Navigation**
@@ -46,7 +46,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Map/Map_nav_mobile.png" alt="Map Navigation Mobile" width="100%" height="100%">
+          <img src="./public/Map/Map_nav_mobile.png" alt="Map Navigation Mobile" width="10%" height="10%">
       </div>
 
 4. **Map Page**
@@ -57,7 +57,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Map/Map_mobile.png" alt="Map Page Mobile" width="100%" height="100%">
+          <img src="./public/Map/Map_mobile.png" alt="Map Page Mobile" width="10%" height="10%">
       </div>
 
 5. **Coffee Shop Cards**
@@ -69,7 +69,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Shop/Shop_mobile.png" alt="Coffee Shop Cards Mobile" width="100%" height="100%">
+          <img src="./public/Shop/Shop_mobile.png" alt="Coffee Shop Cards Mobile" width="10%" height="10%">
       </div>
 
 6. **Product Categories**
@@ -91,7 +91,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Cart/Cart_mobile.png" alt="Cart Page Mobile" width="100%" height="100%">
+          <img src="./public/Cart/Cart_mobile.png" alt="Cart Page Mobile" width="10%" height="10%">
       </div>
 
 9. **Favorites Page**
@@ -102,7 +102,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Fav/Fav_mobile.png" alt="Favorites Page Mobile" width="100%" height="100%">
+          <img src="./public/Fav/Fav_mobile.png" alt="Favorites Page Mobile" width="10%" height="10%">
       </div>
 
 10. **Menu**
@@ -113,7 +113,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
       </div>
     - Mobile:
       <div align="center">
-          <img src="./public/Menu/Menu_mobile.png" alt="Menu Mobile" width="100%" height="100%">
+          <img src="./public/Menu/Menu_mobile.png" alt="Menu Mobile" width="10%" height="10%">
       </div>
 
 ## Features to be Implemented
