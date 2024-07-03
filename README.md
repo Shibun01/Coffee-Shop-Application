@@ -6,7 +6,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
 
 ## Application Flow
 
-1. **Login/Signup**
+0. **Login/Signup**
     - Users can log in or sign up to access the application.
     -  For testing purposes, use the following credentials:
       - **Email:** test
@@ -29,7 +29,13 @@ This document outlines the application flow for our Coffee Shop Application. It 
         <div align="center">
             <img src="./public/Login/Register_phone.png" alt="Register Mobile" width="30%" height="30%">
         </div>
-
+1. **Explore Coffee Shops**
+    - Users can explore different coffee shops available in the application.
+    - The first two coffee shops have detailed data including their menu.
+      - **Coffee Shop 1:**
+        - Name: Blue Tokai Coffee Roasters | Koramangala
+      - **Coffee Shop 2:**
+        - Name: Third Wave Coffee
 2. **Dashboard**
     - After logging in, users are directed to the dashboard.
     - The dashboard provides a basic search feature with a map to locate nearby coffee shops.
