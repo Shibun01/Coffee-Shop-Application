@@ -11,7 +11,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
     -  For testing purposes, use the following credentials:
       - **Email:** test
       - **Password:** test@123
-    - The application is designed to be responsive and works on a variety of screen sizes, including MacBook and all mobile devices.
+    - **The application is designed to be responsive and works on a variety of screen sizes, including MacBook and all mobile devices.**
     - Desktop:
       <div align="center">
           <img src="./public/Login/Login_desktop.png" alt="Login Desktop" width="100%" height="100%">
