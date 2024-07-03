@@ -9,7 +9,7 @@ This document outlines the application flow for our Coffee Shop Application. It 
 0. **Login/Signup**
     - Users can log in or sign up to access the application.
     -  For testing purposes, use the following credentials:
-      - **Email:** test
+      - **Email:** test@gmail.com
       - **Password:** test@123
     - **The application is designed to be responsive and works on a variety of screen sizes, including MacBook and all mobile devices.**
     - Desktop:
