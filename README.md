@@ -130,18 +130,12 @@ This document outlines the application flow for our Coffee Shop Application. It 
 
 Due to time constraints, the following features are planned but not yet implemented:
 
-1. **Order Number Increment**
-    - Automatically increase the order number for each order in the cart page.
-
-2. **Advanced Filter**
+1. **Advanced Filter**
     - Filter coffee shops based on distance from the user's location.
     - Search products based on the menu.
 
-3. **Razorpay Integration**
+2. **Razorpay Integration**
     - Integrate Razorpay portal for checkout using test keys.
-
-4. **Responsive Design**
-    - Ensure the application is compatible with all screen sizes.
 
 ## Reason for Time Constraints
 
@@ -196,7 +190,5 @@ Balancing the development of core functionalities while ensuring the application
 7. **Favorites Page**: Users can view their favorite products.
 
 ### Notes:
-- **Order Number Increment**: Planned for the cart page.
 - **Advanced Filter**: Planned for search and filter features.
 - **Razorpay Integration**: Planned for the checkout process.
-- **Responsive Design**: Planned for all screen sizes.
